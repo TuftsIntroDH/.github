@@ -6,6 +6,8 @@ Many thanks to Micah Saxton for supplying the bulk of this syllabus!
 
 ## Course Info - Spring 2025
 
+|                  |                                               |
+| ---------------- | --------------------------------------------- |
 | Instructor       | Charles Pletcher <charles.pletcher@tufts.edu> |
 | Office Hours     | [By appointment](https://cal.com/pletcher)    |
 | TA               | Iván Montalvo <Ivan.Montalvo_Duque@tufts.edu> |
