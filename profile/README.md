@@ -15,7 +15,7 @@ TA: Iván Montalvo (Ivan.Montalvo_Duque@tufts.edu)\
 Office address: TBD\
 Office hours: TBD
 
-Class time: MW 9 -- 10:15 a.m.\
+Class time: MW 9 – 10:15 a.m.\
 Class location: Braker Hall 118
 
 ## Course Description
@@ -87,7 +87,7 @@ For a grade in the "A" range, students must complete the following:
 -   2 DH project evaluations (written)
 -   1 DH project evaluation (group presentation)
 -   3 Programming Historian lessons
--   Self- reflection
+-   Self-reflection
 -   Final project
 
 For a grade in the "B" range, students must complete the following
