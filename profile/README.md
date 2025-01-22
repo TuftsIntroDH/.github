@@ -213,7 +213,7 @@ Python: Variables, Strings, and Numbers
 In class
 
 -   [Variables, Strings, and Numbers
-    Lab](https://github.com/TuftsIntroDH/VariablesStringsNumbers)
+    Lab](https://github.com/TuftsIntroDH/Variables-Strings-Numbers)
 
 Read
 
