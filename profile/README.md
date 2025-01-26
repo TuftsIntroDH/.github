@@ -13,7 +13,7 @@ https://cal.com/pletcher
 
 TA: Iván Montalvo (Ivan.Montalvo_Duque@tufts.edu)\
 Office address: TBD\
-Office hours: TBD
+Office hours: TTh 3 - 4 p.m. or by appointment
 
 Class time: MW 9 – 10:15 a.m.\
 Class location: Braker Hall 118
