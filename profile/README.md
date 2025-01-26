@@ -528,7 +528,8 @@ Read
 -   Romanello, Matteo, and Sven Najem-Meyer. 2024. "A Named
     Entity-Annotated Corpus of 19th Century Classical Commentaries."
     Journal of Open Humanities Data 10: 1.
-    https://doi.org/10.5334/johd.150. - Kirsch, Adam. "Technology Is
+    https://doi.org/10.5334/johd.150.
+-   Kirsch, Adam. "Technology Is
     Taking Over English Departments." The New Republic, May 2, 2014 -
     Hobbes, Thucydides, Book 4
 
@@ -553,7 +554,6 @@ Read
 
 -   Wellmon, Chad. "Sacred Reading: From Augustine to the Digital
     Humanists." *The Hedgehog Review* 17, no. 3 (Fall 2015).
-
 -   Hobbes, Thucydides, Book 5
 
 Homework
@@ -588,10 +588,8 @@ Read
 -   Jasnow, Benjamin, Courtney Evans, and Jenny Strauss Clay. 2018.
     "Poetic and Geographical Organization in the Catalogue of Ships."
     *TAPA* 148 (1): 1--44. <https://doi.org/10.1353/apa.2018.0002>.
-
 -   A Gentle Introduction to GIS:
     https://docs.qgis.org/3.34/en/docs/gentle_gis_introduction/
-
 -   Hobbes, Thucydides, Book 6
 
 
