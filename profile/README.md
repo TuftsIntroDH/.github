@@ -248,7 +248,7 @@ Read
     pp. 1-18. Oxford UP, 2014.
 -   Barker, Elton, and Melissa Terras. "Greek Literature, the Digital
     Humanities, and the Shifting Technologies of Reading." In *Oxford
-    Handbook of Topics in Classical Studies*. Oxford UP,
+    Handbook of Topics in Classical Studies*. Oxford UP.
 
 Homework
 
@@ -262,14 +262,14 @@ Homework
 
 Python: Lists
 
+Read **before class**
+
+-   Matthes, Eric. *Python Crash Course*, chs. 3-4
+
 In class
 
 -   [Lists Lab](https://github.com/TuftsIntroDH/Lists)
 -   [For-Loops Lab](https://github.com/TuftsIntroDH/ForLoops)
-
-Read
-
--   Matthes, Eric. *Python Crash Course*, chs. 3-4
 
 Homework
 
@@ -278,13 +278,7 @@ Homework
 
 ### Monday, February 3
 
-Coding and the Humanities
-
-In class
-
--   Discussion and review of lists and for-loops
-
-Read
+Read **before class**
 
 -   Kirschenbaum, Matthew. "Hello Worlds." The Chronicle of Higher
     Education, January 23, 2009
@@ -292,6 +286,12 @@ Read
     Humanities?" pp. 137-146 in *The Bloomsbury Handbook to the Digital
     Humanities*. Edited by James O'Sulivan. London: Bloomsbury Academic,
     2022.
+
+Coding and the Humanities
+
+In class
+
+-   Discussion and review of lists and for-loops
 
 Homework
 
@@ -302,15 +302,15 @@ Homework
 
 ### Wednesday, February 5
 
+Read **before class**
+
+-   Matthes, Eric. Python Crash Course, ch. 5
+
 Python: Conditionals
 
 In class
 
 -   03_conditionals.ipynb
-
-Read
-
--   Matthes, Eric. Python Crash Course, ch. 5
 
 Homework
 
@@ -322,17 +322,17 @@ Homework
 
 How do computers read texts?
 
-In class
-
--   Regular expressions ("regexes") and tokenization lab
-
-Read
+Read **before class**
 
 -   Pope, *Iliad*, Book 1
 -   Ehrett, Carl, Lucian Ghita, Dillon Ranwala, and Alison
     Menezes. 2024. "Shakespeare Machine: New AI-Based Technologies for
     Textual Analysis." *Digital Scholarship in the Humanities* 39 (2):
     522--31. https://doi.org/10.1093/llc/fqae021.
+
+In class
+
+-   Regular expressions ("regexes") and tokenization lab
 
 Homework
 
@@ -345,15 +345,15 @@ Homework
 
 Python: Dictionaries
 
+Read **before class**
+
+-   Matthes, Eric. Python Crash Course, ch. 6
+
 In class
 
 -   [04_dictionaries.ipynb](https://colab.research.google.com/drive/1Q4B6VJlN87h498IYZnvGl64lA4tQvjac?usp=sharing)
 
 -   Stop words: What they are and what to do with them
-
-Read
-
--   Matthes, Eric. Python Crash Course, ch. 6
 
 Homework
 
@@ -367,16 +367,16 @@ Homework
 
 Voyant
 
-In class
-
--   Explorations of Pope's *Iliad* with Voyant
-    (https://voyant-tools.org)
-
-Read
+Read **before class**
 
 -   Moretti, Franco. 2000. "Conjectures on World Literature." New Left
     Review 1:54--68.
 -   Pope, *Iliad*, Books 3 and 6
+
+In class
+
+-   Explorations of Pope's *Iliad* with Voyant
+    (https://voyant-tools.org)
 
 Homework
 
@@ -390,21 +390,19 @@ Homework
 
 Working with files
 
-In class
-
--   File I/O lab
-
-Read
+Read **before class**
 
 -   Schofield, Alexandria. "The Possibilities and Limitations of Natural
     Language Processing for the Humanities," pp. 169-178 in *The
     Bloomsbury Handbook to the Digital Humanities.* Edited by James
     O'Sullivan. London: Bloomsbury, 2022.
-
 -   Singh, Prasoon. "Fundamentals of Bag of Words and TF-IDF." Analytics
     Vidhya (blog), February 15, 2020.
-
 -   Hobbes, Thucydides, Book 1
+
+In class
+
+-   File I/O lab
 
 Homework
 
@@ -412,7 +410,6 @@ Homework
     *Iliad*, Book 9. What kinds of errors do you encounter? What other
     difficulties does this process present? How did you refine your
     tokenization process through experimentation?
-
 -   How many tokens does your tokenization method obtain? How many
     types?
 
@@ -421,12 +418,7 @@ Homework
 
 Pandas DataFrames and Python Counters
 
-In class
-
--   [05_pandas.ipynb](https://colab.research.google.com/drive/1k6NaStAmlfgvT_ech24H6dSwhoOTYfUf?usp=sharing)
--   Lab: Tokens, types, and lemmata: definitions and applications
-
-Read
+Read **before class**
 
 -   Porter, James I. "Homer: The History of an Idea." In *The Cambridge
     Companion to Homer*, edited by Robert Fowler, 324--43. Cambridge
@@ -437,16 +429,17 @@ Read
     https://doi.org/10.1017/CCOL0521813026.022.
 -   Pope, *Iliad*, Books 16, 22, and 24 (no other homework)
 
+In class
+
+-   [05_pandas.ipynb](https://colab.research.google.com/drive/1k6NaStAmlfgvT_ech24H6dSwhoOTYfUf?usp=sharing)
+-   Lab: Tokens, types, and lemmata: definitions and applications
+
 
 ### Wednesday, February 26
 
 XML and TEI: The Basics
 
-In class
-
--   TEI XML crash course
-
-Read
+Read **before class**
 
 -   Dunning, Andrew. "Transcribing Medieval Manuscripts with TEI."
     Andrew Dunning, January 28, 2019.
@@ -457,6 +450,10 @@ Read
     pp. 147-159 in *The Bloomsbury Handbook to the Digital Humanities*.
     Edited by James O'Sullivan. London: Bloomsbury, 2022.
 -   Pope, *Iliad*, Book 9
+
+In class
+
+-   TEI XML crash course
 
 Homework
 
@@ -470,15 +467,14 @@ Homework
 
 TF-IDF
 
+Read **before class**
+
+-   spaCy 101: <https://spacy.io/usage/spacy-101>
+-   Hobbes, Thucydides, Book 2
+
 In class
 
 -   07_tf-idf.ipynb
-
-Read
-
--   spaCy 101: <https://spacy.io/usage/spacy-101>
-
--   Hobbes, Thucydides, Book 2
 
 Homework
 
@@ -493,17 +489,17 @@ Homework
 
 Natural Language Processing
 
-In class
-
--   Parts of speech with spaCy lab
-
-Read
+Read **before class**
 
 -   Hobbes, Thucydides, Book 3
 
 -   Forster, Chris. 2013. "With Thanks to Woolf and Emacs, Reading 'The
     Waves' with Stephen Ramsay," February.
     http://cforster.com/2013/02/reading-the-waves-with-stephen-ramsay/.
+
+In class
+
+-   Parts of speech with spaCy lab
 
 Homework
 
@@ -519,11 +515,7 @@ Homework
 
 Named Entity Recognition
 
-In class
-
--   08_ner.ipynb
-
-Read
+Read **before class**
 
 -   Romanello, Matteo, and Sven Najem-Meyer. 2024. "A Named
     Entity-Annotated Corpus of 19th Century Classical Commentaries."
@@ -532,6 +524,10 @@ Read
 -   Kirsch, Adam. "Technology Is
     Taking Over English Departments." The New Republic, May 2, 2014 -
     Hobbes, Thucydides, Book 4
+
+In class
+
+-   08_ner.ipynb
 
 Homework
 
@@ -546,15 +542,15 @@ Homework
 
 Distant Reading
 
-In class
-
--   Discussion: Distant reading, the "classics," and the great unread
-
-Read
+Read **before class**
 
 -   Wellmon, Chad. "Sacred Reading: From Augustine to the Digital
     Humanists." *The Hedgehog Review* 17, no. 3 (Fall 2015).
 -   Hobbes, Thucydides, Book 5
+
+In class
+
+-   Discussion: Distant reading, the "classics," and the great unread
 
 Homework
 
@@ -579,11 +575,7 @@ No class: Spring Break
 
 GIS I
 
-In class
-
--   GIS Lab
-
-Read
+Read **before class**
 
 -   Jasnow, Benjamin, Courtney Evans, and Jenny Strauss Clay. 2018.
     "Poetic and Geographical Organization in the Catalogue of Ships."
@@ -592,28 +584,31 @@ Read
     https://docs.qgis.org/3.34/en/docs/gentle_gis_introduction/
 -   Hobbes, Thucydides, Book 6
 
+In class
+
+-   GIS Lab
+
 
 
 ### Wednesday, March 26
 
 GIS II
 
-In class
-
--   GIS Lab (continued)
-
-Read
+Read **before class**
 
 -   Barker, Elton, Chiara Palladino, and Shai Gordin. 2024. "Digital
     Approaches to Investigating Space and Place in Classical Studies."
     *The Classical Review* 74 (1): 1--19.
     <https://doi.org/10.1017/S0009840X23002858>.
-
 -   Rood, Tim. 2015. "Mapping Spatial and Temporal Distance in Herodotus
     and Thucydides." In *New Worlds from Old Texts*, edited by Elton
     Barker, Stefan Bouzarovski, Christopher Pelling, and Leif Isaksen,
     101--20. Oxford: Oxford University Press.
     https://doi.org/10.1093/acprof:oso/9780199664139.003.0006.
+
+In class
+
+-   GIS Lab (continued)
 
 Homework
 
@@ -628,11 +623,7 @@ Homework
 
 Application Programming Interfaces (APIs) and Web Scraping
 
-In class
-
--   [09_api.ipynb](https://colab.research.google.com/drive/1CEJ9bkZmMn56EsmxVb0VHQbt07_iLjJK?usp=sharing)
-
-Read
+Read **before class**
 
 -   Walker, Abigail. "Getting Data for Digital Humanities with APIs: A
     Gentle Introduction -- Digital Humanities @ Pratt School of
@@ -640,6 +631,12 @@ Read
     5, 2022
 
 -   Frazer, Pausanias, Book 1 (Attica)
+
+
+In class
+
+-   [09_api.ipynb](https://colab.research.google.com/drive/1CEJ9bkZmMn56EsmxVb0VHQbt07_iLjJK?usp=sharing)
+
 
 Homework
 
@@ -653,23 +650,22 @@ Homework
 
 Topic Modeling
 
+Read **before class**
+
+-   Blei, David. "Topic Modeling and Digital Humanities." *Journal of
+    Digital Humanities*
+-   Brett, Megan. "Topic Modeling: A Basic Introduction." *Journal of
+    Digital Humanities*
+-   Mimno, David. "Computational Historiography: Data Mining in a
+    Century of Classics Journals." *Journal on Computing and Cultural
+    Heritage* 5, no. 1 (April 27, 2012): 3:1-3:19
+-   Frazer, Pausanias, Book 10 (Delphi)
+
+
 In class
 
 -   [10_topic_modeling.ipynb](https://colab.research.google.com/drive/1jFbxoXGhgUz3l7YTmbsfsLRZivx6AmZ9?usp=sharing)
 
-Read
-
--   Blei, David. "Topic Modeling and Digital Humanities." *Journal of
-    Digital Humanities*
-
--   Brett, Megan. "Topic Modeling: A Basic Introduction." *Journal of
-    Digital Humanities*
-
--   Mimno, David. "Computational Historiography: Data Mining in a
-    Century of Classics Journals." *Journal on Computing and Cultural
-    Heritage* 5, no. 1 (April 27, 2012): 3:1-3:19
-
--   Frazer, Pausanias, Book 10 (Delphi)
 
 Homework
 
@@ -684,17 +680,18 @@ Homework
 
 Visualization and Public Humanities
 
-In class
-
--   [11_scattertext.ipynb](https://colab.research.google.com/drive/1T8tNaJ2sLXPDtd4P-it-_2ObZu1vfdOt?usp=sharing)
-
-Read
+Read **before class**
 
 -   Baetens, Jan. 2018. "Visual-Verbal Materiality." Comparative
     Literature 70 (3): 357--68.
     <https://doi.org/10.1215/00104124-6991755>.
-
 -   Frazer, Pausanias, Book 3 (Sparta)
+
+
+In class
+
+-   [11_scattertext.ipynb](https://colab.research.google.com/drive/1T8tNaJ2sLXPDtd4P-it-_2ObZu1vfdOt?usp=sharing)
+
 
 Homework
 
@@ -711,25 +708,24 @@ Homework
 
 Critical Approaches to Digital Humanities
 
-In class
-
--   Discussion of what we have covered in digital humanities so far
-
-Read
+Read **before class**
 
 -   Fiormonte, Domenico and Gimena Del Rio Riande. "The Peripheries and
     Epistemic Margins of Digital Humanities" pp. 19-28 in *The
     Bloomsbury Handbook to the Digital Humanities*. Edited by James
     O'Sullivan. London: Bloomsbury, 2022.
-
 -   Gairola, Rahul K. "Race, Otherness, and the Digital Humanities"
     pp. 49-62 Day, Shawn. "Visualizing Humanities Data" pp. 211-220 in
     *The Bloomsbury Handbook to the Digital Humanities*. Edited by James
     O'Sullivan. London: Bloomsbury, 2022.
-
 -   Allington, Daniel, Sarah Brouillette, and David Golumbia.
     "Neoliberal Tools (and Archives): A Political History of Digital
     Humanities." *Los Angeles Review of Books*, May 1, 2016.
+
+In class
+
+-   Discussion of what we have covered in digital humanities so far
+
 
 Homework
 
@@ -741,18 +737,18 @@ Homework
 
 Public Digital Humanities
 
+Read **before class**
+
+-   Risam, Roopika, and Alex Gil. 2022. "Introduction: The Questions of
+    Minimal Computing." *Digital Humanities Quarterly* 016 (2).
+-   Chan, Tiffany, and Jentery Sayers. 2022. "Minimal Computing from the
+    Labor Perspective." *Digital Humanities Quarterly* 016 (2).
+
+
 In class
 
 -   Discussion and demonstration of public-facing digital humanities
     tools
-
-Read
-
--   Risam, Roopika, and Alex Gil. 2022. "Introduction: The Questions of
-    Minimal Computing." *Digital Humanities Quarterly* 016 (2).
-
--   Chan, Tiffany, and Jentery Sayers. 2022. "Minimal Computing from the
-    Labor Perspective." *Digital Humanities Quarterly* 016 (2).
 
 
 
@@ -760,13 +756,14 @@ Read
 
 Catch-up
 
+Read **before class**
+
+-   Rockwell and Sinclair, *Hermeneutica*, chs. 8-10
+  
+
 In class
 
 -   Catch-up
-
-Read
-
--   Rockwell and Sinclair, *Hermeneutica*, chs. 8-10
 
 
 
@@ -779,15 +776,16 @@ No class: Patriot's Day
 
 Catch-up
 
-In class
-
--   Catch-up
-
-Read
+Read **before class**
 
 -   [Neuman, Yair, Marcel Danesi, and Dan Vilenchik, eds. *Using AI for
     Dialoguing with Texts : From Psychology to Cinema and Literature*.
-    New York, NY: Routledge, 2023. Chs. 1-4]{.mark}
+    New York, NY: Routledge, 2023. Chs. 1-4]
+
+
+In class
+
+-   Catch-up
 
 
 ### Monday, April 28
