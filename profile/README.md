@@ -7,7 +7,7 @@ Many thanks to Micah Saxton for supplying the bulk of this syllabus!
 ## Course Info - Spring 2025
 
 Instructor: Charles Pletcher (charles.pletcher@columbia.edu)\
-Office address: TBD\
+Office address: Eaton 157 (Perseus Digital Library Lab)\
 Office hours: MW 10:30 - 11:30 a.m. or by appointment
 https://cal.com/pletcher
 
