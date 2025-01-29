@@ -269,7 +269,7 @@ Read **before class**
 In class
 
 -   [Lists Lab](https://github.com/TuftsIntroDH/Lists)
--   [For-Loops Lab](https://github.com/TuftsIntroDH/ForLoops)
+-   [For Loops Lab](https://github.com/TuftsIntroDH/For-Loops)
 
 Homework
 
