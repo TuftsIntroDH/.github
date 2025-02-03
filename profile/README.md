@@ -304,6 +304,7 @@ Homework
 
 Read **before class**
 
+-   Plato, Phaedrus, 274c-275b — [Canvas link](https://canvas.tufts.edu/courses/64568/files/folder/February%205?preview=8575243)
 -   Matthes, Eric. Python Crash Course, ch. 5
 
 Python: Conditionals
