@@ -311,12 +311,11 @@ Python: Conditionals
 
 In class
 
--   03_conditionals.ipynb
+-   [Conditionals lab](https://github.com/TuftsIntroDH/Conditionals)
 
 Homework
 
--   Coding Exercise: Lists and Conditionals
-
+-   Coding Exercise: [Lists and Conditionals](https://github.com/TuftsIntroDH/Conditionals/blob/main/conditionals.ipynb)
 
 
 ### Monday, February 10
