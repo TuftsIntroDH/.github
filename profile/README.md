@@ -351,7 +351,7 @@ Read **before class**
 
 In class
 
--   [04_dictionaries.ipynb](https://colab.research.google.com/drive/1Q4B6VJlN87h498IYZnvGl64lA4tQvjac?usp=sharing)
+-   [04_dictionaries.ipynb](https://github.com/TuftsIntroDH/Dictionaries)
 
 -   Stop words: What they are and what to do with them
 
