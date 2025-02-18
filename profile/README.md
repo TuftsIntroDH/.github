@@ -365,6 +365,16 @@ Homework
 
 ### Monday, February 17
 
+No class - Presidents' Day
+
+### Wednesday, February 19
+
+Paratexts: Visit to Special Collections
+
+**Class Meets in Tisch 103**
+
+### Monday, February 24
+
 Voyant
 
 Read **before class**
@@ -386,7 +396,7 @@ Homework
     you learn from Voyant; include a link to your analysis.
 
 
-### Wednesday, February 19
+### Wednesday, February 26
 
 Working with files
 
@@ -414,7 +424,7 @@ Homework
     types?
 
 
-### Monday, February 24
+### Monday, March 3
 
 Pandas DataFrames and Python Counters
 
@@ -435,7 +445,7 @@ In class
 -   Lab: Tokens, types, and lemmata: definitions and applications
 
 
-### Wednesday, February 26
+### Wednesday, March 5
 
 XML and TEI: The Basics
 
@@ -463,7 +473,7 @@ Homework
 
 
 
-### Monday, March 3
+### Monday, March 10
 
 TF-IDF
 
@@ -485,7 +495,7 @@ Homework
     encountering. Conversely, discuss some of the limitations of or
     barriers to successful close reading.
 
-### Wednesday, March 5
+### Wednesday, March 12
 
 Natural Language Processing
 
@@ -509,54 +519,6 @@ Homework
     determine the most "important" (by TF-IDF metrics) lemmata for
     Pericles' speech. Do these lemmata match your expectations? Why or
     why not?
-
-
-### Monday, March 10
-
-Named Entity Recognition
-
-Read **before class**
-
--   Romanello, Matteo, and Sven Najem-Meyer. 2024. "A Named
-    Entity-Annotated Corpus of 19th Century Classical Commentaries."
-    Journal of Open Humanities Data 10: 1.
-    https://doi.org/10.5334/johd.150.
--   Kirsch, Adam. "Technology Is
-    Taking Over English Departments." The New Republic, May 2, 2014 -
-    Hobbes, Thucydides, Book 4
-
-In class
-
--   08_ner.ipynb
-
-Homework
-
--   **Online Discussion 8**: Use spaCy (including its NER components)
-    and TF-IDF to analyze several of the speeches in Thucydides 3 (e.g.,
-    compare Cleon and Nicias and/or Cleon and Brasidas). What kinds of
-    people or places do they reference? What themes emerge in each of
-    their speeches? Do these fit your close-reading interpretations of
-    the passages?
-
-### Wednesday, March 12
-
-Distant Reading
-
-Read **before class**
-
--   Wellmon, Chad. "Sacred Reading: From Augustine to the Digital
-    Humanists." *The Hedgehog Review* 17, no. 3 (Fall 2015).
--   Hobbes, Thucydides, Book 5
-
-In class
-
--   Discussion: Distant reading, the "classics," and the great unread
-
-Homework
-
--   **Online Discussion 9**: Why do (or don't) you read? How do you
-    read?
-
 
 
 ### Monday, March 17
@@ -646,7 +608,36 @@ Homework
     we have discussed in class). What differences emerge between the
     translations? Where are there points of agreement?
 
-## Wednesday, April 2
+
+### Wednesday, April 2
+
+Named Entity Recognition
+
+Read **before class**
+
+-   Romanello, Matteo, and Sven Najem-Meyer. 2024. "A Named
+    Entity-Annotated Corpus of 19th Century Classical Commentaries."
+    Journal of Open Humanities Data 10: 1.
+    https://doi.org/10.5334/johd.150.
+-   Kirsch, Adam. "Technology Is
+    Taking Over English Departments." The New Republic, May 2, 2014 -
+    Hobbes, Thucydides, Book 4
+
+In class
+
+-   08_ner.ipynb
+
+Homework
+
+-   **Online Discussion 8**: Use spaCy (including its NER components)
+    and TF-IDF to analyze several of the speeches in Thucydides 3 (e.g.,
+    compare Cleon and Nicias and/or Cleon and Brasidas). What kinds of
+    people or places do they reference? What themes emerge in each of
+    their speeches? Do these fit your close-reading interpretations of
+    the passages?
+
+
+### Monday, April 7
 
 Topic Modeling
 
@@ -675,9 +666,64 @@ Homework
     or why not?
 
 
+### Wednesday, April 9
 
-### Monday, April 7
+Distant Reading
 
+Read **before class**
+
+-   Wellmon, Chad. "Sacred Reading: From Augustine to the Digital
+    Humanists." *The Hedgehog Review* 17, no. 3 (Fall 2015).
+-   Hobbes, Thucydides, Book 5
+
+In class
+
+-   Discussion: Distant reading, the "classics," and the great unread
+
+Homework
+
+-   **Online Discussion 9**: Why do (or don't) you read? How do you
+    read?
+
+
+### Monday, April 14
+
+Public Digital Humanities
+
+Read **before class**
+
+
+-   Fiormonte, Domenico and Gimena Del Rio Riande. "The Peripheries and
+    Epistemic Margins of Digital Humanities" pp. 19-28 in *The
+    Bloomsbury Handbook to the Digital Humanities*. Edited by James
+    O'Sullivan. London: Bloomsbury, 2022.
+-   Gairola, Rahul K. "Race, Otherness, and the Digital Humanities"
+    pp. 49-62 Day, Shawn. "Visualizing Humanities Data" pp. 211-220 in
+    *The Bloomsbury Handbook to the Digital Humanities*. Edited by James
+    O'Sullivan. London: Bloomsbury, 2022.
+-   Allington, Daniel, Sarah Brouillette, and David Golumbia.
+    "Neoliberal Tools (and Archives): A Political History of Digital
+    Humanities." *Los Angeles Review of Books*, May 1, 2016.
+-   Risam, Roopika, and Alex Gil. 2022. "Introduction: The Questions of
+    Minimal Computing." *Digital Humanities Quarterly* 016 (2).
+-   Chan, Tiffany, and Jentery Sayers. 2022. "Minimal Computing from the
+    Labor Perspective." *Digital Humanities Quarterly* 016 (2).
+
+
+In class
+
+-   Discussion and demonstration of public-facing digital humanities
+    tools
+
+
+Homework
+
+-   Begin working on final projects
+
+
+
+### Wednesday, April 16
+  
 Visualization and Public Humanities
 
 Read **before class**
@@ -686,6 +732,7 @@ Read **before class**
     Literature 70 (3): 357--68.
     <https://doi.org/10.1215/00104124-6991755>.
 -   Frazer, Pausanias, Book 3 (Sparta)
+-   Rockwell and Sinclair, *Hermeneutica*, chs. 8-10
 
 
 In class
@@ -701,69 +748,6 @@ Homework
     used to challenge and/or supplement the understanding of a text that
     we derive from close reading? How do computational approaches fit
     into this discussion?
-
-
-
-### Wednesday, April 9
-
-Critical Approaches to Digital Humanities
-
-Read **before class**
-
--   Fiormonte, Domenico and Gimena Del Rio Riande. "The Peripheries and
-    Epistemic Margins of Digital Humanities" pp. 19-28 in *The
-    Bloomsbury Handbook to the Digital Humanities*. Edited by James
-    O'Sullivan. London: Bloomsbury, 2022.
--   Gairola, Rahul K. "Race, Otherness, and the Digital Humanities"
-    pp. 49-62 Day, Shawn. "Visualizing Humanities Data" pp. 211-220 in
-    *The Bloomsbury Handbook to the Digital Humanities*. Edited by James
-    O'Sullivan. London: Bloomsbury, 2022.
--   Allington, Daniel, Sarah Brouillette, and David Golumbia.
-    "Neoliberal Tools (and Archives): A Political History of Digital
-    Humanities." *Los Angeles Review of Books*, May 1, 2016.
-
-In class
-
--   Discussion of what we have covered in digital humanities so far
-
-
-Homework
-
--   Begin working on final projects
-
-
-
-### Monday, April 14
-
-Public Digital Humanities
-
-Read **before class**
-
--   Risam, Roopika, and Alex Gil. 2022. "Introduction: The Questions of
-    Minimal Computing." *Digital Humanities Quarterly* 016 (2).
--   Chan, Tiffany, and Jentery Sayers. 2022. "Minimal Computing from the
-    Labor Perspective." *Digital Humanities Quarterly* 016 (2).
-
-
-In class
-
--   Discussion and demonstration of public-facing digital humanities
-    tools
-
-
-
-### Wednesday, April 16
-
-Catch-up
-
-Read **before class**
-
--   Rockwell and Sinclair, *Hermeneutica*, chs. 8-10
-  
-
-In class
-
--   Catch-up
 
 
 
