@@ -373,6 +373,32 @@ Paratexts: Visit to Special Collections
 
 **Class Meets in Tisch 103**
 
+### Thursday, February 20
+
+**Note the unusual day!**
+
+Working with files
+
+Read **before class**
+
+-   Schofield, Alexandria. "The Possibilities and Limitations of Natural
+    Language Processing for the Humanities," pp. 169-178 in *The
+    Bloomsbury Handbook to the Digital Humanities.* Edited by James
+    O'Sullivan. London: Bloomsbury, 2022.
+-   Singh, Prasoon. "Fundamentals of Bag of Words and TF-IDF." Analytics
+    Vidhya (blog), February 15, 2020.
+-   Pope, *Iliad*, Book 1 (https://www.gutenberg.org/cache/epub/6130/pg6130-images.html)
+
+In class
+
+-   File I/O lab
+  
+
+Homnework
+
+- Finish File I/O lab
+
+
 ### Monday, February 24
 
 Voyant
@@ -381,7 +407,7 @@ Read **before class**
 
 -   Moretti, Franco. 2000. "Conjectures on World Literature." New Left
     Review 1:54--68.
--   Pope, *Iliad*, Books 3 and 6
+-   Pope, *Iliad*, Book 1 (https://www.gutenberg.org/cache/epub/6130/pg6130-images.html)
 
 In class
 
@@ -398,21 +424,18 @@ Homework
 
 ### Wednesday, February 26
 
-Working with files
+Voyant
 
 Read **before class**
 
--   Schofield, Alexandria. "The Possibilities and Limitations of Natural
-    Language Processing for the Humanities," pp. 169-178 in *The
-    Bloomsbury Handbook to the Digital Humanities.* Edited by James
-    O'Sullivan. London: Bloomsbury, 2022.
--   Singh, Prasoon. "Fundamentals of Bag of Words and TF-IDF." Analytics
-    Vidhya (blog), February 15, 2020.
--   Hobbes, Thucydides, Book 1
+-   Moretti, Franco. 2000. "Conjectures on World Literature." New Left
+    Review 1:54--68.
+-   Pope, *Iliad*, Book 1 (https://www.gutenberg.org/cache/epub/6130/pg6130-images.html)
 
 In class
 
--   File I/O lab
+-   Explorations of Pope's *Iliad* with Voyant
+    (https://voyant-tools.org)
 
 Homework
 
