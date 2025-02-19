@@ -56,6 +56,7 @@ Upon completion of this course, students will be able to
 -   Rockwell, Geoffrey and Stefan Sinclair. *Hermeneutica:
     Computer-Assisted Interpretation in the Humanities*. MIT Press,
     2016.
+-   Homer, _Iliad_. Translated by Alexander Pope. https://www.gutenberg.org/cache/epub/6130/pg6130-images.html, 2004 [1725–1726].
 
 NB: Additional readings (listed below) will be made available on Canvas.
 
