@@ -461,11 +461,11 @@ Read **before class**
     Companion to Homer*, edited by Robert Fowler, 363--75. Cambridge:
     Cambridge University Press, 2004.
     https://doi.org/10.1017/CCOL0521813026.022.
--   Pope, *Iliad*, Books 16, 22, and 24 (no other homework)
+-   Pope, *Iliad*, Book 16
 
 In class
 
--   [05_pandas.ipynb](https://colab.research.google.com/drive/1k6NaStAmlfgvT_ech24H6dSwhoOTYfUf?usp=sharing)
+-   [05_pandas.ipynb](https://github.com/TuftsIntroDH/Pandas-and-DataFrames)
 -   Lab: Tokens, types, and lemmata: definitions and applications
 
 
