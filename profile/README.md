@@ -491,10 +491,8 @@ In class
 
 Homework
 
--   **Online Discussion 6**: Mark up 10 lines of Pope's *Iliad* in valid
-    TEI XML. Write a brief (1- to 2-paragraph) response about your
-    approach to this process.
-
+-   **Online Discussion 6**: Finish marking up the page that you photographed in Special Collections
+in TEI XML. Write a brief (1- to 2-paragraph) response about your approach to this process.
 
 
 ### Monday, March 10
