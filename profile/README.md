@@ -18,6 +18,8 @@ Office hours: TTh 3 - 4 p.m. or by appointment
 Class time: MW 9 – 10:15 a.m.\
 Class location: Braker Hall 118
 
+Course website: https://tuftsintrodh.github.io
+
 ## Course Description
 
 This course introduces students to the use of computational methods to
