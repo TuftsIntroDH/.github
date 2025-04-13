@@ -87,8 +87,6 @@ For a grade in the "A" range, students must complete the following:
 
 -   All weekly coding assignments
 -   10 discussion posts
--   2 DH project evaluations (written)
--   1 DH project evaluation (group presentation)
 -   3 Programming Historian lessons
 -   Self-reflection
 -   Final project
@@ -97,8 +95,6 @@ For a grade in the "B" range, students must complete the following
 
 -   All weekly coding assignments
 -   7 discussion posts
--   1 DH project evaluations (written)
--   1 DH project evaluation (group presentation)
 -   2 Programming Historian lessons
 -   Self-reflection
 -   Final project
@@ -107,8 +103,6 @@ For a grade in the "C" range, students must complete the following:
 
 -   Half of the weekly coding assignments
 -   5 discussion posts
--   1 DH project evaluations (written)
--   1 DH project evaluation (group presentation)
 -   1 Programming Historian lessons
 -   Self-reflection
 
