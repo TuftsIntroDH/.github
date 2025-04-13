@@ -712,9 +712,9 @@ Homework
 
 ### Monday, April 14
 
-Public Digital Humanities
+Independent work on final projects
 
-Read **before class**
+Suggested readings:
 
 
 -   Fiormonte, Domenico and Gimena Del Rio Riande. "The Peripheries and
@@ -743,29 +743,6 @@ In class
 Homework
 
 -   Begin working on final projects
-
-
-
-### Wednesday, April 16
-  
-Visualization and Public Humanities
-
-Read **before class**
-
--   Baetens, Jan. 2018. "Visual-Verbal Materiality." Comparative
-    Literature 70 (3): 357--68.
-    <https://doi.org/10.1215/00104124-6991755>.
--   Frazer, Pausanias, Book 3 (Sparta)
--   Rockwell and Sinclair, *Hermeneutica*, chs. 8-10
-
-
-In class
-
--   [11_scattertext.ipynb](https://colab.research.google.com/drive/1T8tNaJ2sLXPDtd4P-it-_2ObZu1vfdOt?usp=sharing)
-
-
-Homework
-
 -   **Online Discussion 10**: The medium and the message: How does the
     presentation of data --- textual or otherwise --- affect our
     understanding of it? What are some ways that presentation can be
@@ -773,6 +750,19 @@ Homework
     we derive from close reading? How do computational approaches fit
     into this discussion?
 
+
+
+### Wednesday, April 16
+  
+Independent work on final projects
+
+Suggested reading
+
+-   Baetens, Jan. 2018. "Visual-Verbal Materiality." Comparative
+    Literature 70 (3): 357--68.
+    <https://doi.org/10.1215/00104124-6991755>.
+-   Frazer, Pausanias, Book 3 (Sparta)
+-   Rockwell and Sinclair, *Hermeneutica*, chs. 8-10
 
 
 ### Monday, April 21
