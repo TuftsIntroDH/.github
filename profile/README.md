@@ -85,30 +85,28 @@ the end of the term about their involvement in the course.
 
 For a grade in the "A" range, students must complete the following:
 
--   All weekly coding assignments
+-   All weekly coding assignments (including a [Programming Historian-style lesson](https://canvas.tufts.edu/courses/64568/assignments/504626))
 -   10 discussion posts
--   3 Programming Historian lessons
+-   3 Programming Historian lessons ([Portfolio submission](https://canvas.tufts.edu/courses/64568/assignments/504630))
 -   Self-reflection
--   Final project
+-   At least 13/16 on the final project (a higher score on the final project can bump a grade up at the instructor's discretion)
 
 For a grade in the "B" range, students must complete the following
 
--   All weekly coding assignments
+-   All weekly coding assignments (including a [Programming Historian-style lesson](https://canvas.tufts.edu/courses/64568/assignments/504626))
 -   7 discussion posts
--   2 Programming Historian lessons
+-   2 Programming Historian lessons ([Portfolio submission](https://canvas.tufts.edu/courses/64568/assignments/504630))
 -   Self-reflection
--   Final project
+-   At least 10/16 on the final project (a higher score on the final project can bump a grade up at the instructor's discretion)
 
 For a grade in the "C" range, students must complete the following:
 
 -   Half of the weekly coding assignments
 -   5 discussion posts
--   1 Programming Historian lessons
+-   1 Programming Historian lesson ([Portfolio submission](https://canvas.tufts.edu/courses/64568/assignments/504630))
 -   Self-reflection
 
-Students who neglect to make the minimum requirements for a grade in the
-"C" range will be assigned a "D" or an "F" at the instructor's
-discretion.
+Students who neglect to make the minimum requirements for a grade in the "C" range will be assigned a "D" or an "F" at the instructor's discretion.
 
 ## Classroom Policy Statements
 
