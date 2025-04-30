@@ -85,24 +85,24 @@ the end of the term about their involvement in the course.
 
 For a grade in the "A" range, students must complete the following:
 
--   All weekly coding assignments (including a [Programming Historian-style lesson](https://canvas.tufts.edu/courses/64568/assignments/504626))
+-   All (10/10) weekly coding assignments (including a [Programming Historian-style lesson](https://canvas.tufts.edu/courses/64568/assignments/504626))
 -   10 discussion posts
--   3 Programming Historian lessons ([Portfolio submission](https://canvas.tufts.edu/courses/64568/assignments/504630))
+-   3/3 Programming Historian lessons ([Portfolio submission](https://canvas.tufts.edu/courses/64568/assignments/504630))
 -   Self-reflection
 -   At least 13/16 on the final project (a higher score on the final project can bump a grade up at the instructor's discretion)
 
 For a grade in the "B" range, students must complete the following
 
--   All weekly coding assignments (including a [Programming Historian-style lesson](https://canvas.tufts.edu/courses/64568/assignments/504626))
--   7 discussion posts
--   2 Programming Historian lessons ([Portfolio submission](https://canvas.tufts.edu/courses/64568/assignments/504630))
+-   9/10 weekly coding assignments (including a [Programming Historian-style lesson](https://canvas.tufts.edu/courses/64568/assignments/504626))
+-   7/10 discussion posts
+-   2/3 Programming Historian lessons ([Portfolio submission](https://canvas.tufts.edu/courses/64568/assignments/504630))
 -   Self-reflection
 -   At least 10/16 on the final project (a higher score on the final project can bump a grade up at the instructor's discretion)
 
 For a grade in the "C" range, students must complete the following:
 
--   Half of the weekly coding assignments
--   5 discussion posts
+-   Half (5/10) of the weekly coding assignments
+-   5/10 discussion posts
 -   1 Programming Historian lesson ([Portfolio submission](https://canvas.tufts.edu/courses/64568/assignments/504630))
 -   Self-reflection
 
